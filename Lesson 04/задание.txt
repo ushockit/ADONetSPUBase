@@ -1,0 +1,1 @@
+Возьмите за основу предыдущий проект и реализуйте его через многоуровневую архитектуру с использованием Dapper (Micro ORM) + Repository Pattern + Unit Of Work Pattern
